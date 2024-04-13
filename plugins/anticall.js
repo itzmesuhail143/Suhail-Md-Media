@@ -42,7 +42,7 @@ CURRENTLY RUNNING ON BETA VERSION!!
 **/
 
 
-let antiCallMessage = process.env.ANTICALL_MESSAGE ||  "\`\`\`Hii this is Suhail-Md a Personal Assistant!!\n\n\tSorry for now, we cannot receive calls, whether in a group or personal \n\n if you need help or request features please chat owner\n\n\nPowered by Suhail-Md Chatbot\`\`\`" ;
+let antiCallMessage = process.env.ANTICALL_MESSAGE ||  "\`\`\`𝐇ᴇʏʏ... 𝐓ʜɪs 𝐈s 𝐒ᴜʜᴀɪʟ's 𝐁ᴏᴛ 𝐌ᴇssᴀɢᴇ!!\n\n\t𝐒ᴜʜᴀɪʟ 𝐂ᴀɴ'ᴛ 𝐓ᴀʟᴋ 𝐈ɴ 𝐖ʜᴀᴛsᴀᴘᴘ 𝐎ʀ 𝐇ᴇ 𝐂ᴀɴɴᴏᴛ 𝐑ᴇᴄᴇɪᴠᴇ 𝐖ʜᴀᴛsᴀᴘᴘ 𝐂ᴀʟʟs \n\n *𝐈ғ 𝐘ᴏᴜ 𝐖ᴀɴᴛ 𝐓ᴏ 𝐓ᴀʟᴋ 𝐖ɪᴛʜ 𝐇ɪᴍ 𝐏ʟᴇᴀsᴇ 𝐂ᴏɴɴᴇᴄᴛ 𝐖ɪᴛʜ 𝐍ᴏʀᴍᴀʟ 𝐂ᴀʟʟ 𝐎ʀ 𝐓ᴇxᴛ 𝐌ᴇssᴀɢᴇ 𝐇ᴇʀᴇ* \n\n\n `𝐒ᴜʜᴀɪʟ 𝐖ɪʟʟ 𝐑ᴇᴘʟᴀʏɪɴɢ 𝐘ᴏᴜ 𝐒ᴏᴏɴ` \`\`\`" ;
 
 
 
